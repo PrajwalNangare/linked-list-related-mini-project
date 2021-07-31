@@ -1,2 +1,2 @@
-# linkedlist-related-mini-project
+# linked-list-related-mini-project
 this mini project include all linked list related operations 
